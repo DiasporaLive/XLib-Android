@@ -1,12 +1,12 @@
-# XCore
-XCore is a Open-Source , simple and lightweight library for Android Apps.This library will give you acces to a few android elements and some custom ones you can play with and see if you can improve your apps or create them more easily.
+# XLib
+XLib is a fork of XCore with more features.This library will give you acces to a few android elements and some custom ones you can play with and see if you can improve your apps or create them more easily.
 # Support
 XCore is compatible with Android Studio & Sketchware Pro
 SDK Compatibility :
 
-21 - 31 (Stable)
+21 - 32 (Stable)
 
-32,33(Beta)
+33(Beta)
 
 For higher version,please change your SDK version in Android Studio/Sketchware PRO
 # Installation
